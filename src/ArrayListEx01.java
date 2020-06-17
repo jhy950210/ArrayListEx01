@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class ArrayListEx01 {
-
+	// 깃 변경사항
 	public static void main(String[] args) {
 		// 기본 버퍼
 		ArrayList al1 = new ArrayList();
